@@ -14,7 +14,7 @@ cfscrape==2.0.8
 chardet==3.0.4
 Click==7.0
 configobj==5.0.6
-cryptography==3.2
+cryptography==3.3.2
 decorator==4.4.1
 deluge-client==1.7.1
 distlib==0.3.0
