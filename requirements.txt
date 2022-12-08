@@ -8,7 +8,7 @@ babelfish==0.5.5
 beautifulsoup4==4.6.3
 bencode3==0.1.0
 CacheControl==0.12.5
-certifi==2019.11.28
+certifi==2022.12.7
 cffi==1.13.2
 cfscrape==2.0.8
 chardet==3.0.4
